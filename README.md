@@ -4,9 +4,9 @@
 
 # Super-Mailer
 
-_ uso de vpn's
+_uso de vpn's
 
-_ envio de e-mail masivo de forma incognita
+_envio de e-mail masivo de forma incognita
 
 
 
