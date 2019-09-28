@@ -8,6 +8,8 @@
 
 * envio de e-mail masivo de forma incognita
 
+### PARA QUE NO SE USE CON SCAMS :) 
+
 
 ________________________________________________________________________________
 
