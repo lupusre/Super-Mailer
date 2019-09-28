@@ -3,4 +3,10 @@
 
 
 # Super-Mailer
-es un servicio de envio de email masivo
+
+-uso de vpn's
+-envio de e-mail masivo de forma incognita
+
+
+
+
